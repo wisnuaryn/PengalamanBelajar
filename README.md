@@ -10,3 +10,7 @@ Belajar kelas Dasar Git dengan GitHub. (Progres 38%)
 **8 Februari 2022**  
 Belajar kelas Dasar Git dengan GitHub. (Progres 39%)
   * Belajar menambahkan kembali progres belajar
+
+**8 Februari 2022**  
+Belajar kelas Dasar Git dengan GitHub. (Progres 42%)
+  * Belajar memperbaiki tampilan berkas 
